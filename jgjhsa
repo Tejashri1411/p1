@@ -1,0 +1,36 @@
+[33mcommit 5e1bd0d4e5dec8dcaa6d73c44e82738981a42cc7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: Tejashri <root@ip-172-31-11-171.ap-south-1.compute.internal>
+Date:   Fri Dec 5 09:03:11 2025 +0000
+
+    added file in dev
+
+[33mcommit 43fad18e593788e17e120dc49a8ba849b9011455[m
+Merge: 14111e8 a37c8d4
+Author: Tejashri <root@ip-172-31-11-171.ap-south-1.compute.internal>
+Date:   Fri Dec 5 08:54:52 2025 +0000
+
+    aaded correct value in b xml file
+
+[33mcommit 14111e8f8ff68bb97745aca0e23fac6dd72b94c7[m
+Author: Tejashri <root@ip-172-31-11-171.ap-south-1.compute.internal>
+Date:   Fri Dec 5 08:45:27 2025 +0000
+
+    added b file
+
+[33mcommit a37c8d463172c0744371af458f225516c7f45dfd[m
+Author: root <root@ip-172-31-5-139.ap-south-1.compute.internal>
+Date:   Fri Dec 5 08:42:17 2025 +0000
+
+    aaded b xml file
+
+[33mcommit e02529b8ff94bcb4cec34bf314e9b7b0e80a8c1b[m
+Author: Tejashri <root@ip-172-31-11-171.ap-south-1.compute.internal>
+Date:   Fri Dec 5 08:32:56 2025 +0000
+
+    aded x value
+
+[33mcommit a596bc490390706e83d010c8ceb5acbcee3e0c03[m
+Author: root <root@ip-172-31-11-171.ap-south-1.compute.internal>
+Date:   Fri Dec 5 08:28:07 2025 +0000
+
+    added files
